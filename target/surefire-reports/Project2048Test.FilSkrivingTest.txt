@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Project2048Test.FilSkrivingTest
+-------------------------------------------------------------------------------
+Tests run: 19, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.216 s - in Project2048Test.FilSkrivingTest

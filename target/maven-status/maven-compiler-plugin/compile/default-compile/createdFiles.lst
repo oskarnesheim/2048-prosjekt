@@ -1,0 +1,10 @@
+project2048/GameController$1.class
+module-info.class
+project2048/Tile.class
+project2048/BoardComparator.class
+project2048/Board.class
+project2048/RowComparator.class
+project2048/GameController.class
+project2048/FilLagringInterface.class
+project2048/GameApp.class
+project2048/FilSkriving.class
